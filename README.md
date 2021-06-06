@@ -4,6 +4,10 @@
 
 # Project 1: Navigation
 
+### Enviroment Setup
+
+Please follow the instuctions in the [DRLND Repo] (https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in `README.md` at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+
 ### Introduction
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
